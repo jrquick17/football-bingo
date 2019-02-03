@@ -1,0 +1,11 @@
+<ion-content>
+  <ion-row *ngFor="let r of [] | range:5">
+    <ion-col *ngFor="let c of [] | range:5"
+             [ngStyle]="{ 'height': columnHeight + 'px', 'width': columnHeight + 'px' }"
+             text-center>
+      <ion-label>
+        {{ getSquare(r, c) }}
+      </ion-label>
+    </ion-col>
+  </ion-row>
+</ion-content>
