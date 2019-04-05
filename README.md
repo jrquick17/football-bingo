@@ -83,8 +83,13 @@ Run `npm install` to get packages required for the demo and then run `ionic serv
 
 ## Future Plans
 
-* Add documentation to README
 * Add Rules
+* Add Instructions
+* Add documentation to README
+* Add print button
+* Optional FREE square
 * Hook into database for models
 * Allow user submissions and edits
 * Support more than American football
+* Show rules on print out
+* Allow custom rules

@@ -4,5 +4,5 @@ export class Square {
   }
 
   public text:string = '';
-  public weight:number = 1;
+  public weight?:number = 1;
 }
