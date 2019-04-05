@@ -1,3 +1,9 @@
 ion-col {
   border: 2px solid lightgray;
 }
+
+@media print {
+  .hidden-print {
+    display: none !important;
+  }
+}
