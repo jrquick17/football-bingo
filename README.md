@@ -83,8 +83,6 @@ Run `npm install` to get packages required for the demo and then run `ionic serv
 
 ## Future Plans
 
-* Add Rules
-* Add Instructions
 * Add documentation to README
 * Add print button
 * Optional FREE square

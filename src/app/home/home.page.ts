@@ -131,6 +131,17 @@ export class HomePage {
 
   public categoryCount:number;
 
+  public helps:string[] = [
+      'Click "Generate Board" to randomize the board',
+      'Do not worry about screensize, just click prinnt. Everything should properly align on the page automatically!',
+  ];
+
+  public instructions:string[] = [
+      'Mark off the events as they occur',
+      'Events with "quotes" around it require it to be said during the broadcast',
+      'Have Fun!',
+  ];
+
   public possibleSquares:Square[] = [];
 
   public selectedSquares:Square[] = [];
