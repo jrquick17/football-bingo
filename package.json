@@ -1,8 +1,8 @@
 {
-  "name": "bingo",
+  "name": "football-bingo",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
+  "author": "Jeremy Quick<me@jrquick.com",
+  "homepage": "https://jrquick.com/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
