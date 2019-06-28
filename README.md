@@ -84,6 +84,7 @@ Run `npm install` to get packages required for the demo and then run `ionic serv
 
 ## Future Plans
 
+* Update to Angular 8+
 * Add documentation to README
 * Add print button
 * Optional FREE square
